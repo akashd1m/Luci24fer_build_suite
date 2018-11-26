@@ -39,7 +39,7 @@
     "promise": "^7.0.1",
     "qs": "^2.4.2",
     "request": "^2.79.0",
-    "sfcc-ci": "git+http://sfccbuild:Z54TX2qk8JzA4kAmU8pD@bitbucket.org/demandware/sfcc-ci.git",
+    "sfcc-ci": "git+ssh://git@github.com:SalesforceCommerceCloud/sfcc-ci.git",
     "time-grunt": "^1.0.0",
     "underscore": "^1.8.3"
   },
